@@ -53,4 +53,4 @@ golang-auth/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/Sashriya/Golong-backend-service-api.git
+git clone https://github.com/Sashriya/Golong-authentication-api.git
